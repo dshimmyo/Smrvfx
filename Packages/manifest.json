@@ -12,6 +12,9 @@
     "com.unity.render-pipelines.universal": "12.1.1",
     "com.unity.timeline": "1.6.2",
     "com.unity.visualeffectgraph": "12.1.1",
+    "com.unity.xr.management": "4.2.0",
+    "com.unity.xr.oculus": "1.10.0",
+    "com.unity.xr.openxr": "1.2.8",
     "jp.keijiro.beta": "1.0.2",
     "jp.keijiro.cmu-mocap": "1.0.0",
     "com.unity.modules.jsonserialize": "1.0.0"

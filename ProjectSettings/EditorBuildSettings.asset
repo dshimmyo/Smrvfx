@@ -8,4 +8,10 @@ EditorBuildSettings:
   - enabled: 1
     path: Assets/Karate.unity
     guid: ddd59e5a1315051eaa5a6f4cb6a84774
-  m_configObjects: {}
+  m_configObjects:
+    Unity.XR.Oculus.Settings: {fileID: 11400000, guid: 382cc82ab1fefdc409a558dc4d946715,
+      type: 2}
+    com.unity.xr.management.loader_settings: {fileID: 11400000, guid: 07cde9a5dcb78a143893219c0a5abfd6,
+      type: 2}
+    com.unity.xr.openxr.settings4: {fileID: 11400000, guid: 5b9e2623bfa452541af818612096487a,
+      type: 2}
