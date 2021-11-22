@@ -153,6 +153,13 @@ PlayerSettings:
   - {fileID: 0}
   - {fileID: 0}
   - {fileID: 0}
+  - {fileID: 0}
+  - {fileID: 0}
+  - {fileID: 0}
+  - {fileID: 0}
+  - {fileID: 0}
+  - {fileID: 0}
+  - {fileID: 0}
   - {fileID: 3531335496466077992, guid: 5b9e2623bfa452541af818612096487a, type: 2}
   - {fileID: 1065505008072867284, guid: 07cde9a5dcb78a143893219c0a5abfd6, type: 2}
   - {fileID: 11400000, guid: 382cc82ab1fefdc409a558dc4d946715, type: 2}
@@ -183,7 +190,7 @@ PlayerSettings:
   overrideDefaultApplicationIdentifier: 0
   AndroidBundleVersionCode: 1
   AndroidMinSdkVersion: 26
-  AndroidTargetSdkVersion: 0
+  AndroidTargetSdkVersion: 26
   AndroidPreferredInstallLocation: 0
   aotOptions: 
   stripEngineCode: 1
