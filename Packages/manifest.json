@@ -11,12 +11,18 @@
   "dependencies": {
     "com.unity.render-pipelines.high-definition": "8.2.0",
     "com.unity.timeline": "1.4.2",
-    "com.unity.xr.management": "3.2.17",
+    "com.unity.xr.management": "3.2.16",
     "jp.keijiro.beta": "1.0.2",
     "jp.keijiro.cmu-mocap": "1.0.0",
+    "com.unity.modules.ai": "1.0.0",
+    "com.unity.modules.androidjni": "1.0.0",
+    "com.unity.modules.assetbundle": "1.0.0",
     "com.unity.modules.imageconversion": "1.0.0",
+    "com.unity.modules.physics2d": "1.0.0",
+    "com.unity.modules.terrain": "1.0.0",
     "com.unity.modules.uielements": "1.0.0",
     "com.unity.modules.video": "1.0.0",
+    "com.unity.modules.vr": "1.0.0",
     "com.unity.modules.xr": "1.0.0"
   }
 }
