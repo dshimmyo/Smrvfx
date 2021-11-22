@@ -9,7 +9,6 @@
     }
   ],
   "dependencies": {
-    "com.unity.render-pipelines.high-definition": "10.7.0",
     "com.unity.render-pipelines.universal": "10.7.0",
     "com.unity.timeline": "1.4.8",
     "com.unity.xr.management": "4.0.1",
