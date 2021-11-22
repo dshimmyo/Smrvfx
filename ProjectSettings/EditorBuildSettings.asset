@@ -5,9 +5,12 @@ EditorBuildSettings:
   m_ObjectHideFlags: 0
   serializedVersion: 2
   m_Scenes:
-  - enabled: 1
+  - enabled: 0
     path: Assets/Karate.unity
     guid: ddd59e5a1315051eaa5a6f4cb6a84774
+  - enabled: 1
+    path: Assets/KarateVR.unity
+    guid: a20c047094252b64785b8fe3a41503f6
   m_configObjects:
     Unity.XR.Oculus.Settings: {fileID: 11400000, guid: 382cc82ab1fefdc409a558dc4d946715,
       type: 2}
